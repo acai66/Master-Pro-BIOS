@@ -1,7 +1,12 @@
 # Master-Pro-BIOS
 大师之路笔记本解锁高级功能BIOS
 
+![images/bios_main.png](images/bios_main.png)
+
 ## 支持型号
-1. 承影X17 10870h_nv3060
-2. 承影X17 Pro 11800h_nv3060
-3. 待添加新型号...
+
+| 型号  | CPU  | 显卡 | 原版BIOS | 已解锁BIOS | vBIOS |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 承影X17 | i7-10875H | nvidia RTX 3060 | √ | √ | √ |
+| 承影X17 Pro | i7-11800H | nvidia RTX 3060 | √ | √ | √ |
+

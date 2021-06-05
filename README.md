@@ -1,5 +1,5 @@
 # Master-Pro-BIOS
-大师之路笔记本解锁高级功能BIOS
+大师之路笔记本解锁高级功能BIOS,[` 使用教程 `](https://hyacm.com/acai/os/bios/418/master-pro-x17-bios/)
 
 ![images/bios_main.png](images/bios_main.png)
 

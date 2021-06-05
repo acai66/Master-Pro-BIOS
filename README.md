@@ -1,2 +1,7 @@
-# Master-Pro-X17-BIOS
-大师之路承影x17解锁高级功能BIOS
+# Master-Pro-BIOS
+大师之路笔记本解锁高级功能BIOS
+
+## 支持型号
+1. 承影X17 10870h_nv3060
+2. 承影X17 Pro 11800h_nv3060
+3. 待添加新型号...
